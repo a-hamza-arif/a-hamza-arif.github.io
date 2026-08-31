@@ -19,9 +19,9 @@ A cinematic **studio car showcase animation** — an original concept sedan mode
 ## 🚗 What's in the Scene
 
 - **Car model** — a full sedan build (body shell, 4 detailed wheels/rims, mirror, interior fill), finished in a glossy black studio paint material
-- **Studio environment** — a curved cyclorama-style backdrop with a patterned feature wall (crackle/hex tile pattern) behind a neutral studio floor
-- **Studio lighting** — a professional 3-point+ setup (top softbox, side left, side right, and a highlight sun) for the classic glossy automotive-photography look and clean paint reflections
-- **Orbiting camera** — the camera follows a Bezier circle path around the car for a smooth 360°-style reveal, with subtle organic shake layered on top for a more handheld-commercial feel rather than a static turntable
+- **Studio environment** — a curved cyclorama-style backdrop with a patterned feature wall behind a neutral studio floor
+- **Studio lighting** — a professional 3-point+ setup (top softbox, side left, side right, and a highlight sun)
+- **Orbiting camera** — the camera follows a Bezier circle path around the car for a smooth 360°-style reveal, with subtle organic shake layered on top
 
 ## ⚙️ Technical Details
 
@@ -31,22 +31,14 @@ A cinematic **studio car showcase animation** — an original concept sedan mode
 - **Camera rig:** `Follow Path` constraint (Bezier circle) + additional location/rotation constraints for subtle handheld-style motion
 - **Lighting:** softbox + dual side lights + highlight sun, plus supplementary scene lights
 
-## ▶️ How to Open / Render
+## 📸 Deliverables in This Repo
 
-1. Open `Car.blend` in Blender (Cycles-capable GPU recommended).
-2. Scene runs frames **1–120** at 24fps (~5s) — the camera completes its orbit + shake pass across the full range.
-3. `Render → Render Animation` to reproduce the sequence, or scrub the timeline and `Render → Render Image` for a single still (great for a hero/cover shot).
-4. No audio track — this is a silent showcase piece; add music/SFX in post if desired.
+- **`Car.mkv`** — final rendered animation (frames 1–120)
+- **`Car.png`** — key still frame
+- `README.md` — this file
 
-## 📁 Repo Contents
+The full Blender project file (`.blend`) is available on request.
 
-```
-.
-├── Car.blend         # Main Blender project file
-├── Final.mkv           # Rendered animation (frames 1–120)
-├── frames/              # Rendered image sequence
-└── README.md
-```
-
+---
 
 Made with 🧡 in Blender.
