@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Muhammad Ameer Hamza — Blender 3D Portfolio</title>
+<meta name="description" content="Blender 3D artist portfolio of Muhammad Ameer Hamza — modeling, lighting, industrial visualization, and rendering.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="grain"></div>
+
+<nav class="topnav">
+  <span class="brand">HAMZA<span class="brand-dot">.</span></span>
+  <div class="nav-links">
+    <a href="#work">Work</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </div>
+</nav>
+
+<header class="hero" id="hero">
+  <div class="hero-bg" id="hero-bg"></div>
+  <div class="hero-content">
+    <p class="hud-label">MUHAMMAD AMEER HAMZA &nbsp;/&nbsp; BLENDER 3D ARTIST</p>
+    <h1 class="hero-title">From blockout to<br>final render.</h1>
+    <p class="hero-sub">Modeling, lighting, and rendering across product commercials, industrial visualization, characters, and environments — 13 projects below.</p>
+    <a href="#work" class="hero-cta">View Work ↓</a>
+  </div>
+  <div class="hud-bar">
+    <span id="hud-engine">ENGINE: CYCLES</span>
+    <span id="hud-frame">FRAME 0001</span>
+    <span id="hud-res">1920 × 1080</span>
+    <span id="hud-status">● RENDERING</span>
+  </div>
+</header>
+
+<main>
+  <section id="work">
+    <div class="section-head">
+      <h2>Selected Work</h2>
+      <span class="section-count" id="project-count"></span>
+    </div>
+    <div id="project-grid" class="grid"></div>
+  </section>
+
+  <section id="about">
+    <div class="section-head"><h2>About</h2></div>
+    <div class="about-layout">
+      <p id="about-text">
+        I'm Hamza, a Blender generalist working across modeling, shading, lighting,
+        and rendering. My work spans product commercials, large-scale industrial
+        and architectural visualization, original character and creature design,
+        and stylized environment art — taking each project from blockout through
+        to a finished, cinematic final render.
+      </p>
+      <ul class="specs">
+        <li><span>Software</span><span>Blender — Cycles &amp; Eevee</span></li>
+        <li><span>Focus</span><span>Modeling / Lighting / Rendering</span></li>
+        <li><span>Available for</span><span>Freelance &amp; contract work</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="section-head"><h2>Let's Work Together</h2></div>
+    <p class="hero-sub" style="margin-bottom:26px;">Have a project in mind? Reach out directly — I usually reply within a day.</p>
+    <p class="contact-line">Email: <a href="mailto:m.a.hamza.arif@gmail.com">m.a.hamza.arif@gmail.com</a></p>
+    <p class="contact-line">WhatsApp: <a href="https://wa.me/923298753659" target="_blank">+92 329 8753659</a></p>
+    <p class="contact-line">
+      <a href="https://github.com/a-hamza-arif" target="_blank">GitHub</a>
+    </p>
+  </section>
+</main>
+
+<div id="modal" class="modal hidden">
+  <div class="modal-frame">
+    <button id="modal-close" aria-label="Close">&times;</button>
+    <div class="viewfinder">
+      <span class="corner tl"></span><span class="corner tr"></span>
+      <span class="corner bl"></span><span class="corner br"></span>
+      <div id="modal-media"></div>
+    </div>
+    <div class="modal-info">
+      <h3 id="modal-title"></h3>
+      <p id="modal-meta" class="mono-line"></p>
+      <p id="modal-desc"></p>
+      <p id="modal-links" class="modal-links"></p>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <span>&copy; <span id="year"></span> Muhammad Ameer Hamza</span>
+  <span class="mono-line">BUILT IN BLENDER</span>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
