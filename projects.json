@@ -1,0 +1,132 @@
+[
+  {
+    "name": "AI Data Center",
+    "folder": "AI Data Center",
+    "description": "Engineering-grade AI data center flythrough — 4,230 objects covering the server hall, cooling/MEP systems, and an electrical substation.",
+    "engine": "Cycles",
+    "resolution": "1920x1080",
+    "frames": "1730",
+    "cover": "Projects/AI Data Center/AI_Data_Center.png",
+    "video": "Projects/AI Data Center/AI_Data_Center.mp4"
+  },
+  {
+    "name": "Glove Factory",
+    "folder": "Glove factory",
+    "description": "Full industrial production line — conveyors, robotic pick-and-place arms, palletizing, and forklift pickup, populated with MetaHuman workers.",
+    "engine": "Cycles",
+    "resolution": "1920x1080",
+    "frames": "1120",
+    "cover": "Projects/Glove factory/Glove_Factory.png",
+    "video": "Projects/Glove factory/Glove_Factory.mp4"
+  },
+  {
+    "name": "Advanced Sci-Fi Humanoid Robot",
+    "folder": "Advanced Sci Fi Humanoid Robot 3D Model",
+    "description": "Cinematic 6-shot reveal of an original armored sci-fi robot with a glowing chest reactor core.",
+    "engine": "Cycles",
+    "resolution": "1920x1080",
+    "frames": "511",
+    "cover": "Projects/Advanced Sci Fi Humanoid Robot 3D Model/Advanced Sci Fi Humanoid Robot 3D Model.png",
+    "video": "Projects/Advanced Sci Fi Humanoid Robot 3D Model/Advanced Sci Fi Humanoid Robot 3D Model.mkv"
+  },
+  {
+    "name": "Quantum Computer",
+    "folder": "Quantum Computer",
+    "description": "Studio visualization of a quantum computer's dilution refrigerator — the iconic gold thermal-stage \"chandelier\" with a glowing qubit chip.",
+    "engine": "Cycles",
+    "resolution": "2560x1440",
+    "frames": "305",
+    "cover": "Projects/Quantum Computer/Quantum Computer.png",
+    "video": "Projects/Quantum Computer/Quantum Computer.mkv"
+  },
+  {
+    "name": "Sci-Fi Environment",
+    "folder": "SciFiEnvironment",
+    "description": "Moody environment shot — an armored character overlooking a ring-lined structure receding toward a glowing volumetric core.",
+    "engine": "Cycles",
+    "resolution": "1920x1080",
+    "frames": "85",
+    "cover": "Projects/SciFiEnvironment/SciFiEnvironment.png",
+    "video": "Projects/SciFiEnvironment/SciFiEnvironment.mkv"
+  },
+  {
+    "name": "Denis Targaroff",
+    "folder": "Denis Targaroff",
+    "description": "Vertical creature reveal — a segmented robotic serpent lit by glowing red joints, built for short-form video.",
+    "engine": "Cycles",
+    "resolution": "1080x1920",
+    "frames": "360",
+    "cover": "Projects/Denis Targaroff/Denis_Targaroff.png",
+    "video": "Projects/Denis Targaroff/Denis_Targaroff.mkv"
+  },
+  {
+    "name": "ACASIS 4-Bay Enclosure",
+    "folder": "ACASIS 4 Bay Enclosure",
+    "description": "Studio product commercial for a 4-bay drive enclosure — 4K, 4-shot camera-marker edit in the style of a real launch video.",
+    "engine": "Eevee",
+    "resolution": "3840x2160",
+    "frames": "621",
+    "cover": "Projects/ACASIS 4 Bay Enclosure/ACASIS 4 Bay Enclosure.png",
+    "video": "Projects/ACASIS 4 Bay Enclosure/ACASIS 4 Bay Enclosure.mkv"
+  },
+  {
+    "name": "Car Showcase",
+    "folder": "Car",
+    "description": "Studio automotive commercial — an original concept sedan on an orbiting turntable camera with glossy paint and studio lighting.",
+    "engine": "Cycles",
+    "resolution": "1920x1080",
+    "frames": "120",
+    "cover": "Projects/Car/Car.png",
+    "video": "Projects/Car/Car.mkv"
+  },
+  {
+    "name": "Luxury Perfume Commercial",
+    "folder": "Luxury_Perfume_Commercial",
+    "description": "High-end fragrance ad — glossy black glass bottle with a brushed-gold cap and engraved label, 4-shot cinematic edit.",
+    "engine": "Cycles",
+    "resolution": "1920x1080",
+    "frames": "310",
+    "cover": "Projects/Luxury_Perfume_Commercial/Luxury_Perfume_Commercial.png",
+    "video": "Projects/Luxury_Perfume_Commercial/Luxury_Perfume_Commercial.mkv"
+  },
+  {
+    "name": "Ghế Ngồi Inox",
+    "folder": "Gh Ngi Inox",
+    "description": "Stainless-steel stool visualization — a \"many-into-one\" effect pairing a coiled-wire process stool with the finished product.",
+    "engine": "Eevee",
+    "resolution": "1920x1920",
+    "frames": "250",
+    "cover": "Projects/Gh Ngi Inox/Gh Ngi Inox.png",
+    "video": "Projects/Gh Ngi Inox/Gh Ngi Inox.mkv"
+  },
+  {
+    "name": "BlueHeart",
+    "folder": "BlueHeart",
+    "description": "Stylized object reveal — a wireframe icosahedron with a cracked glass-like core, lit in cold cinematic blue.",
+    "engine": "Eevee",
+    "resolution": "1920x1080",
+    "frames": "132",
+    "cover": "Projects/BlueHeart/BlueHeart.png",
+    "video": "Projects/BlueHeart/BlueHeart.mkv"
+  },
+  {
+    "name": "Simple Kitchen",
+    "folder": "Simple kithcen",
+    "description": "Architectural kitchen animation closing in on an espresso machine, with a baked simulation of 800+ tumbling coffee beans.",
+    "engine": "Cycles",
+    "resolution": "1920x1300",
+    "frames": "432",
+    "cover": "Projects/Simple kithcen/Simple kithcen.png",
+    "video": "Projects/Simple kithcen/Simple kithcen.mkv"
+  },
+  {
+    "name": "3D Music Lyrics",
+    "folder": "3d Music Lyrics",
+    "description": "4-scene animated lyric video — a character's bedroom wake-up leading into a night walk through a city street, synced to music.",
+    "engine": "Eevee",
+    "resolution": "1920x1080",
+    "frames": "1140",
+    "cover": "",
+    "video": "Projects/3d Music Lyrics/3d_lyrics.mp4"
+  }
+]
